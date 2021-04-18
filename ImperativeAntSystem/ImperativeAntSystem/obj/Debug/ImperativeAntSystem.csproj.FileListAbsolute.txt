@@ -1,0 +1,7 @@
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\bin\Debug\ImperativeAntSystem.exe.config
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\bin\Debug\ImperativeAntSystem.exe
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\bin\Debug\ImperativeAntSystem.pdb
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\obj\Debug\ImperativeAntSystem.csprojAssemblyReference.cache
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\obj\Debug\ImperativeAntSystem.csproj.CoreCompileInputs.cache
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\obj\Debug\ImperativeAntSystem.exe
+C:\Users\lif\Desktop\ImperativeAntSystem\ImperativeAntSystem\obj\Debug\ImperativeAntSystem.pdb
